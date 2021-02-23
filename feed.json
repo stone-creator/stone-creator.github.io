@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "stone-creator.github.io",
+    "description": "",
+    "home_page_url": "https://stone-creator.github.io",
+    "feed_url": "https://stone-creator.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "EL"
+    },
+    "items": [
+        {
+            "id": "https://stone-creator.github.io/pigeuma-gico-gangjwa.html",
+            "url": "https://stone-creator.github.io/pigeuma-gico-gangjwa.html",
+            "title": "피그마 기초 강좌",
+            "summary": " ",
+            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/GsZk8s5JdWg\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>\n<p> </p>",
+            "author": {
+                "name": "EL"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-02-23T01:02:11+09:00",
+            "date_modified": "2021-02-23T01:09:44+09:00"
+        }
+    ]
+}

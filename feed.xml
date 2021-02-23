@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>stone-creator.github.io</title>
+    <link href="https://stone-creator.github.io/feed.xml" rel="self" />
+    <link href="https://stone-creator.github.io" />
+    <updated>2021-02-23T01:09:44+09:00</updated>
+    <author>
+        <name>EL</name>
+    </author>
+    <id>https://stone-creator.github.io</id>
+
+    <entry>
+        <title>피그마 기초 강좌</title>
+        <author>
+            <name>EL</name>
+        </author>
+        <link href="https://stone-creator.github.io/pigeuma-gico-gangjwa.html"/>
+        <id>https://stone-creator.github.io/pigeuma-gico-gangjwa.html</id>
+
+        <updated>2021-02-23T01:09:44+09:00</updated>
+            <summary>
+                <![CDATA[
+                     
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/GsZk8s5JdWg" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
